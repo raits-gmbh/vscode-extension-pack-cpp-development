@@ -10,9 +10,9 @@
     },
     "license": "MIT",
     "name": "cpp-development",
-    "displayName": "cpp-development",
+    "displayName": "C++ Development Extension Pack",
     "description": "Extensions related to c++ development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -36,6 +36,7 @@
         "jeff-hykin.better-cpp-syntax",
         "matepek.vscode-catch2-test-adapter",
         "amiralizadeh9480.cpp-helper",
-        "akiramiyakoda.cppincludeguard"
+        "akiramiyakoda.cppincludeguard",
+        "bbenoist.doxygen"
     ]
 }
