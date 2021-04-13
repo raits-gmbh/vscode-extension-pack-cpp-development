@@ -32,6 +32,10 @@
         "fredericbonnet.cmake-test-adapter",
         "ms-vscode.cmake-tools",
         "vadimcn.vscode-lldb",
-        "ajshort.include-autocomplete"
+        "ajshort.include-autocomplete",
+        "jeff-hykin.better-cpp-syntax",
+        "matepek.vscode-catch2-test-adapter",
+        "amiralizadeh9480.cpp-helper",
+        "akiramiyakoda.cppincludeguard"
     ]
 }
