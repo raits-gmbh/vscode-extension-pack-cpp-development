@@ -1,0 +1,37 @@
+{
+    "author": {
+        "name": "René André IT-Services GmbH",
+        "email": "info@raits.gmbh",
+        "url": "https://raits.gmbh/"
+    },
+    "publisher": "raits",
+    "repository": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-cpp-development"
+    },
+    "license": "MIT",
+    "name": "cpp-development",
+    "displayName": "cpp-development",
+    "description": "Extensions related to c++ development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+      "raits"
+    ],
+    "extensionPack": [ 
+        "ms-vscode.cpptools",
+        "hars.cppsnippets",
+        "kriegalex.vscode-cudacpp",
+        "xaver.clang-format",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "twxs.cmake",
+        "fredericbonnet.cmake-test-adapter",
+        "ms-vscode.cmake-tools",
+        "vadimcn.vscode-lldb",
+        "ajshort.include-autocomplete"
+    ]
+}
