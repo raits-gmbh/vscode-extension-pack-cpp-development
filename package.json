@@ -6,13 +6,18 @@
     },
     "publisher": "raits",
     "repository": {
+		"type": "git",
         "url": "https://github.com/raits-gmbh/vscode-extension-pack-cpp-development"
+    },
+    "bugs": {
+        "url": "https://github.com/raits-gmbh/vscode-extension-pack-cpp-development/issues"
     },
     "license": "MIT",
     "name": "cpp-development",
     "displayName": "C++ Development Extension Pack",
     "description": "Extensions related to c++ development",
-    "version": "0.0.3",
+    "version": "0.0.4",
+	"homepage": "https://github.com/raits-gmbh/vscode-extension-pack-cpp-development",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -20,7 +25,17 @@
         "Extension Packs"
     ],
     "keywords": [
-      "raits"
+      "raits",
+	  "c",
+	  "c++",
+	  "clang",
+	  "clangd",
+	  "cmake",
+	  "cpp",
+	  "cuda",
+	  "doxygen",
+	  "lldb",
+	  "test"
     ],
     "extensionPack": [ 
         "ms-vscode.cpptools",
@@ -38,6 +53,7 @@
         "amiralizadeh9480.cpp-helper",
         "akiramiyakoda.cppincludeguard",
         "bbenoist.doxygen",
-        "coenraads.bracket-pair-colorizer"
+		"cschlosser.doxdocgen",
+		"galarius.vscode-opencl"
     ]
 }
