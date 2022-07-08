@@ -16,7 +16,7 @@
     "name": "cpp-development",
     "displayName": "C++ Development Extension Pack",
     "description": "Extensions related to c++ development",
-    "version": "0.0.4",
+    "version": "0.0.5",
 	"homepage": "https://github.com/raits-gmbh/vscode-extension-pack-cpp-development",
     "engines": {
         "vscode": "^1.55.0"
@@ -35,6 +35,7 @@
 	  "cuda",
 	  "doxygen",
 	  "lldb",
+	  "opencl",
 	  "test"
     ],
     "extensionPack": [ 
